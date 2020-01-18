@@ -45,4 +45,5 @@ EXEMPLE :
 
     > Last state registered: 10:OK:Simulation was correctly ended
 
+![Image description](cover.jpg)
 
