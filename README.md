@@ -5,7 +5,7 @@ Therefore it gives off its commands by writing on the standard output and receiv
 
 PREREQUISITES :
 
-    V-REP simulator needs to be installed.
+    V-REP simulator must be installed.
 
 COMMANDS :
     
